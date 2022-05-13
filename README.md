@@ -12,7 +12,7 @@ This project is part of a course on Codecademy.
 ## Contributing
 
 While the main purpose of this repository was to manage the project,
-suggestions/help on adding small tweaks (or improving the big things) is appreciated.
+suggestions/help on adding small tweaks (or big things) is appreciated.
 
 ## Acknowledgments
 
