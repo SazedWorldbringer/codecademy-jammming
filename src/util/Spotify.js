@@ -6,6 +6,9 @@ const Spotify = {
     if (accessToken) {
       return accessToken;
     }
+
+    // check for an access token match
+    const accessToken = window.location.href.match(/access_token=([^&]*)/);
   },
 };
 
