@@ -1,5 +1,5 @@
-const clientId = REACT_APP_CLIENT_ID;
-const redirectUri = REACT_APP_REDIRECT_URI;
+const clientId = process.env.REACT_APP_CLIENT_ID;
+const redirectUri = process.env.REACT_APP_REDIRECT_URI;
 
 let accessToken;
 
